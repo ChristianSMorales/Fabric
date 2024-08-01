@@ -280,6 +280,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3y48A4yXzAzh38RIykfh-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1913" y="-513" width="446" height="189" as="geometry" />
+        </mxCell>
         <mxCell id="80vL3yTVSTLr6FfM0Hsz-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1937" y="-236" width="801" height="598" as="geometry" />
         </mxCell>
@@ -608,6 +611,9 @@
         </mxCell>
         <mxCell id="80vL3yTVSTLr6FfM0Hsz-13" value="Centro de datos" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-1278.5" y="-967" width="132" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="3y48A4yXzAzh38RIykfh-1" value="Centro de digitalizaciòn de actas electorales" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-1853" y="-570" width="331" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
