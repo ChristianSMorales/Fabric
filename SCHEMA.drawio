@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6" pages="2">
   <diagram name="Página-1" id="XdZ1UDOsBOBLOCC2Xxq1">
-    <mxGraphModel dx="2905" dy="1943" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1579" dy="1126" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -113,7 +113,7 @@
         <mxCell id="zVzXdsSc9gzONHGwE9---45" value="Actas" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="331.75" y="66" width="70" height="82" as="geometry" />
         </mxCell>
-        <mxCell id="zVzXdsSc9gzONHGwE9---46" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Orderer&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="zVzXdsSc9gzONHGwE9---46" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Orderer CNE&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="325.75" y="166" width="78" height="104" as="geometry" />
         </mxCell>
         <mxCell id="zVzXdsSc9gzONHGwE9---47" value="L-ID" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
@@ -276,7 +276,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="H3XCa2MfnBZwOfhF3bOi" name="Página-2">
-    <mxGraphModel dx="3253" dy="1971" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3542" dy="2149" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -602,6 +602,12 @@
         </mxCell>
         <mxCell id="80vL3yTVSTLr6FfM0Hsz-10" value="Resultados" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.document;flipV=0;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="-780" y="-337" width="21" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="80vL3yTVSTLr6FfM0Hsz-11" value="Centro de datos" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-1304.5" y="-516.5" width="132" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="80vL3yTVSTLr6FfM0Hsz-13" value="Centro de datos" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-1278.5" y="-967" width="132" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
