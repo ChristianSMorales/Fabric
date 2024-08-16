@@ -731,7 +731,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copia de Página-3" id="krVL-6pUf61aanz9IWxB">
-    <mxGraphModel dx="3427" dy="1660" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2853" dy="1109" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="4loD74fUdXk85r6_39vD-0" />
         <mxCell id="4loD74fUdXk85r6_39vD-1" parent="4loD74fUdXk85r6_39vD-0" />
@@ -746,8 +746,8 @@
         <mxCell id="4loD74fUdXk85r6_39vD-4" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;L - Identidad&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="4loD74fUdXk85r6_39vD-1">
           <mxGeometry x="-1086" y="215.25" width="42" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="4loD74fUdXk85r6_39vD-8" value="Ledger de transacciones" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="4loD74fUdXk85r6_39vD-1">
-          <mxGeometry x="-1161" y="333.25" width="193" height="31" as="geometry" />
+        <mxCell id="4loD74fUdXk85r6_39vD-8" value="Ledger de transacciones de&amp;nbsp; identidades" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="4loD74fUdXk85r6_39vD-1">
+          <mxGeometry x="-1217" y="333.25" width="306" height="31" as="geometry" />
         </mxCell>
         <mxCell id="4loD74fUdXk85r6_39vD-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.543;entryY=0.971;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="4loD74fUdXk85r6_39vD-1" source="4loD74fUdXk85r6_39vD-8" target="4loD74fUdXk85r6_39vD-4">
           <mxGeometry relative="1" as="geometry" />
